@@ -4,10 +4,10 @@
 A small "escape room" game built for the OOP course, using an MVC-style structure with a local SQLite database for saving scores.
 
 ## Features
-- **CLI Game Mode:** Play directly in the terminal.
-- **Pygame Game Mode:** Play using a graphical user interface (GUI).
-- **Scoreboard:** Player scores and mistakes are saved locally to a SQLite database (`database/escape_room.db`).
-- **MVC Architecture:**
+- CLI Game Mode: Play directly in the terminal.
+- Pygame Game Mode: Play using a graphical user interface (GUI).
+- Scoreboard: Player scores and mistakes are saved locally to a SQLite database (`database/escape_room.db`).
+- MVC Architecture:
   - `models/` – Puzzles and core game logic.
   - `views/` – CLI and Pygame user interfaces.
   - `controllers/` – Game flow orchestration and REPL menu.
