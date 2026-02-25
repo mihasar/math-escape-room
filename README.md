@@ -1,7 +1,7 @@
 ```markdown
 # Math Escape Room (OOP Final Project)
 
-A small "escape room" game built for the OOP course, using an MVC-style structure with a local SQLite database for saving scores.
+Math Escape Room is a Python-based object-oriented game where players solve math puzzles to escape a series of rooms.
 
 ## Features
 - CLI Game Mode: Play directly in the terminal.
